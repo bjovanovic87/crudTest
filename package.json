@@ -13,9 +13,7 @@
   "devDependencies": {
     "axios": "^0.27.2",
     "chai": "^4.3.6",
-    "dotenv": "^16.0.2",
     "mocha": "^10.0.0",
-    "prettier": "^2.7.1",
-    "supertest": "^6.2.4"
+    "prettier": "^2.7.1"
   }
 }
